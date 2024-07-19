@@ -17,7 +17,7 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Nuio_Left_Keyboard_Rev_G.OutJob
 Description=
-TargetOutputMedium=Schematic
+TargetOutputMedium=Assembly PDF
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
@@ -40,7 +40,7 @@ OutputName1=Schematic Prints
 OutputCategory1=Documentation
 OutputDocumentPath1=[Project Physical Documents]
 OutputVariantName1=[No Variations]
-OutputEnabled1=1
+OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=1
 OutputEnabled1_OutputMedium3=0
@@ -267,7 +267,7 @@ OutputEnabled7=0
 OutputEnabled7_OutputMedium1=0
 OutputEnabled7_OutputMedium2=0
 OutputEnabled7_OutputMedium3=0
-OutputEnabled7_OutputMedium4=1
+OutputEnabled7_OutputMedium4=0
 OutputEnabled7_OutputMedium5=0
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=3.14|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
@@ -282,7 +282,7 @@ OutputEnabled8=0
 OutputEnabled8_OutputMedium1=0
 OutputEnabled8_OutputMedium2=0
 OutputEnabled8_OutputMedium3=0
-OutputEnabled8_OutputMedium4=2
+OutputEnabled8_OutputMedium4=0
 OutputEnabled8_OutputMedium5=0
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=3.14|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
@@ -304,21 +304,19 @@ PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration9_Name1=ColumnNameFormat
 Configuration9_Item1=CaptionAsName
 Configuration9_Name2=General
-Configuration9_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=1756|FormHeight=670|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration9_Item2=OpenExported=True|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=0|FormWidth=1756|FormHeight=670|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
 Configuration9_Name3=GroupOrder
 Configuration9_Item3=Supplier Part Number 1=True
 Configuration9_Name4=OutputConfigurationParameter1
 Configuration9_Item4=??`???
-Configuration9_Name5=SortOrder
-Configuration9_Item5=Line #=Up
-Configuration9_Name6=VisibleOrder
-Configuration9_Item6=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=100|Manufacturer Part Number 1=100|Supplier 1=100|Supplier Part Number 1=100
-Configuration9_Name7=VisibleOrder_Base
-Configuration9_Item7=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=100|Manufacturer Part Number 1=100|Supplier 1=100|Supplier Part Number 1=100
-Configuration9_Name8=VisibleOrder_Consolidated
-Configuration9_Item8=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
-Configuration9_Name9=VisibleOrder_Flat
-Configuration9_Item9=Line #=100|Comment=100|Description=100|Designator=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration9_Name5=VisibleOrder
+Configuration9_Item5=Quantity=100|Designator=100|Description=100|Manufacturer 1=100|Manufacturer Part Number 1=100|Supplier 1=100|Supplier Part Number 1=100
+Configuration9_Name6=VisibleOrder_Base
+Configuration9_Item6=Quantity=100|Designator=100|Description=100|Manufacturer 1=100|Manufacturer Part Number 1=100|Supplier 1=100|Supplier Part Number 1=100
+Configuration9_Name7=VisibleOrder_Consolidated
+Configuration9_Item7=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration9_Name8=VisibleOrder_Flat
+Configuration9_Item8=Line #=100|Comment=100|Description=100|Designator=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
 OutputType10=Design Rules Check
 OutputName10=Design Rules Check
 OutputCategory10=Validation
@@ -339,17 +337,17 @@ OutputName11=FAB Notes
 OutputCategory11=Documentation
 OutputDocumentPath11=
 OutputVariantName11=
-OutputEnabled11=0
+OutputEnabled11=1
 OutputEnabled11_OutputMedium1=0
 OutputEnabled11_OutputMedium2=0
 OutputEnabled11_OutputMedium3=0
-OutputEnabled11_OutputMedium4=3
+OutputEnabled11_OutputMedium4=1
 OutputEnabled11_OutputMedium5=0
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [PublishSettings]
-OutputFilePath2=S:\Consulting\Clients\NUIO\PCB Revisions\Left Keyboard\Nuio_Left_Keyboard_Rev_G\Project Outputs for Nuio_Left_Keyboard_Rev_G\Nuio_Left_Keyboard_Rev_G.PDF
+OutputFilePath2=S:\Consulting\Clients\NUIO\PCB Revisions\Left Keyboard\Nuio_Left_Keyboard_Rev_G\Project Outputs for Nuio_Left_Keyboard_Rev_G\
 ReleaseManaged2=1
 OutputBasePath2=Project Outputs for Nuio_Left_Keyboard_Rev_G
 OutputPathMedia2=
@@ -376,7 +374,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\AaronN\Desktop\Ologic\nuio\hardware\Nuio_LeftKeyboard_Rev_E\Project Outputs for Nuio_LeftKeyboard_Rev_E\
+OutputFilePath3=S:\Consulting\Clients\NUIO\PCB Revisions\Left Keyboard\Nuio_Left_Keyboard_Rev_G\Project Outputs for Nuio_Left_Keyboard_Rev_G\
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for Nuio_Left_Keyboard_Rev_G
 OutputPathMedia3=
@@ -388,11 +386,11 @@ OutputFileName3=
 OutputFileNameMulti3=
 UseOutputNameForMulti3=1
 OutputFileNameSpecial3=
-OpenOutput3=0
+OpenOutput3=1
 OutputFilePath4=S:\Consulting\Clients\NUIO\PCB Revisions\Left Keyboard\Nuio_Left_Keyboard_Rev_G\Project Outputs for Nuio_Left_Keyboard_Rev_G\PDF\
 ReleaseManaged4=1
 OutputBasePath4=Project Outputs for Nuio_Left_Keyboard_Rev_G
-OutputPathMedia4=[Media Type]
+OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
 OutputPathOutputerPrefix4=
@@ -416,7 +414,7 @@ ShowComponentParameters4=1
 GlobalBookmarks4=0
 PDFACompliance4=Disabled
 PDFVersion4=Default
-OutputFilePath5=C:\Users\OLogicuser\Desktop\Ologic\nuio\hardware\Nuio_LeftKeyboard_Rev_D\Project Outputs for Nuio_LeftKeyboard_Rev_D\
+OutputFilePath5=S:\Consulting\Clients\NUIO\PCB Revisions\Left Keyboard\Nuio_Left_Keyboard_Rev_G\Project Outputs for Nuio_Left_Keyboard_Rev_G\
 ReleaseManaged5=1
 OutputBasePath5=Project Outputs for Nuio_Left_Keyboard_Rev_G
 OutputPathMedia5=
@@ -428,25 +426,25 @@ OutputFileName5=
 OutputFileNameMulti5=
 UseOutputNameForMulti5=1
 OutputFileNameSpecial5=
-OpenOutput5=0
+OpenOutput5=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=S:\Consulting\Clients\NUIO\PCB Revisions\Left Keyboard\Nuio_Left_Keyboard_Rev_G\Project Outputs for Nuio_Left_Keyboard_Rev_G\Nuio_Left_Keyboard_Rev_G.PDF
+RelativeOutputPath2=S:\Consulting\Clients\NUIO\PCB Revisions\Left Keyboard\Nuio_Left_Keyboard_Rev_G\Project Outputs for Nuio_Left_Keyboard_Rev_G\
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\AaronN\Desktop\Ologic\nuio\hardware\Nuio_LeftKeyboard_Rev_E\Project Outputs for Nuio_LeftKeyboard_Rev_E\
-OpenOutputs3=0
+RelativeOutputPath3=S:\Consulting\Clients\NUIO\PCB Revisions\Left Keyboard\Nuio_Left_Keyboard_Rev_G\Project Outputs for Nuio_Left_Keyboard_Rev_G\
+OpenOutputs3=1
 AddToProject3=0
 TimestampFolder3=0
 UseOutputName3=0
 OpenODBOutput3=0
-OpenGerberOutput3=0
+OpenGerberOutput3=1
 OpenNCDrillOutput3=0
 OpenIPCOutput3=0
 EnableReload3=0
 RelativeOutputPath4=S:\Consulting\Clients\NUIO\PCB Revisions\Left Keyboard\Nuio_Left_Keyboard_Rev_G\Project Outputs for Nuio_Left_Keyboard_Rev_G\PDF\
 OpenOutputs4=1
-RelativeOutputPath5=C:\Users\OLogicuser\Desktop\Ologic\nuio\hardware\Nuio_LeftKeyboard_Rev_D\Project Outputs for Nuio_LeftKeyboard_Rev_D\
-OpenOutputs5=0
+RelativeOutputPath5=S:\Consulting\Clients\NUIO\PCB Revisions\Left Keyboard\Nuio_Left_Keyboard_Rev_G\Project Outputs for Nuio_Left_Keyboard_Rev_G\
+OpenOutputs5=1
 AddToProject5=0
 TimestampFolder5=0
 UseOutputName5=0
