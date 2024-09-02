@@ -237,6 +237,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Nuio_Left_Keyboard_Rev_H\Design Rule Check - Nuio_Left_Keyboard_Rev_H.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Revision
 Value=H
